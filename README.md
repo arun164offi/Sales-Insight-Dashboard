@@ -18,3 +18,8 @@ Tools & Technologies
 -Power BI – Data visualization & dashboard creation
 -SQL (MySQL / SQL Server) – Data extraction & validation
 -DAX – Measures and calculated columns
+
+SQL Data Extraction Quries Preview
+<img width="1920" height="909" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/648e3661-c814-4e1c-bb9f-e4c43e049de3" />
+
+
